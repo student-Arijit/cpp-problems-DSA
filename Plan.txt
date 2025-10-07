@@ -1,0 +1,29 @@
+Setup & first program (this message + exercises)
+
+Basics: types, variables, input/output, control flow, functions
+
+Data structures: arrays, strings, vectors, maps
+
+Pointers & references, memory model, dynamic allocation
+
+Structs & classes, constructors/destructors, RAII
+
+Object-oriented: inheritance, polymorphism, virtual functions
+
+Modern C++: move semantics, rvalue refs, smart pointers (unique_ptr/shared_ptr), range-based for, auto, structured bindings
+
+Templates: function & class templates, type traits, SFINAE, Concepts
+
+STL & algorithms: iterators, algorithms, containers, complexity
+
+Advanced: expression templates, constexpr, metaprogramming, lambdas, function objects
+
+Concurrency & parallelism: threads, atomics, futures, thread pools
+
+Systems & performance: UB, sanitizers, profiling, memory layout, cache, allocators
+
+Tooling: CMake, unit testing (GoogleTest), valgrind/sanitizers, debugger (gdb/VSCode), CI basics
+
+Projects & capstones: (HTTP server, small DB, game loop, competitive programming toolkit)
+
+Interview prep & competitive programming patterns
